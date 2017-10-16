@@ -1,11 +1,11 @@
 <h1>pycryptocompare</h1>
 
-[pycryptocompare](https://github.com/mondeja/pycryptocompare) is a Python3 wrapper for the Cryptocompare API. 
+[pycryptocompare](https://github.com/mondeja/pycryptocompare) is a Python3 wrapper for the [Cryptocompare API](https://www.cryptocompare.com/api/) of [cryptocompare.com](https://www.cryptocompare.com/).
 
 ### Installation
 ```
 git clone https://github.com/mondeja/pycryptocompare.git
-cd pycriptocompare
+cd pycryptocompare
 python3 setup.py install
 ```
 
@@ -21,7 +21,7 @@ Currently only available in docstrings.
 
 ### Testing
 ```
-cd pycriptocompare/tests
+cd pycryptocompare/tests
 python3 tests.py
 ```
 ## Development progress
