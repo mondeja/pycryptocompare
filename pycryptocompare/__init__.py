@@ -7,4 +7,4 @@ __author__ = 'Álvaro Mondéjar Rubio <mondejar1994@gmail.com>'
 __repo__    = 'https://github.com/mondeja/pycriptocompare'
 __license__ = 'BSD License'
 
-from .cryptocompare import CryptoCompare
+from .cryptocompare import CryptoCompare, CryptoCompareError
